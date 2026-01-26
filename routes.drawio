@@ -28,6 +28,15 @@
         <mxCell id="7SRIb6Ha1lLLWObjrT1t-11" edge="1" parent="7SRIb6Ha1lLLWObjrT1t-2" source="7SRIb6Ha1lLLWObjrT1t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="7SRIb6Ha1lLLWObjrT1t-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7SRIb6Ha1lLLWObjrT1t-13" parent="7SRIb6Ha1lLLWObjrT1t-2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#F58534;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="72" width="69" x="345" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="7SRIb6Ha1lLLWObjrT1t-16" parent="7SRIb6Ha1lLLWObjrT1t-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="peering" vertex="1">
+          <mxGeometry height="30" width="60" x="345" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="7SRIb6Ha1lLLWObjrT1t-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Default" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
