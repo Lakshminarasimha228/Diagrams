@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7">
+  <diagram name="Page-1" id="74pbuHWbSF-TAohtVwQu">
+    <mxGraphModel dx="1213" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="10000" pageHeight="20000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VPXxTKBPH1UeQ-HgEbgb-5" edge="1" parent="1" source="VPXxTKBPH1UeQ-HgEbgb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;" target="VPXxTKBPH1UeQ-HgEbgb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPXxTKBPH1UeQ-HgEbgb-7" edge="1" parent="1" source="VPXxTKBPH1UeQ-HgEbgb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;" target="VPXxTKBPH1UeQ-HgEbgb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPXxTKBPH1UeQ-HgEbgb-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1;" value="Ansible Server" vertex="1">
+          <mxGeometry height="60" width="120" x="289" y="206" as="geometry" />
+        </mxCell>
+        <mxCell id="VPXxTKBPH1UeQ-HgEbgb-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1;" value="NODE&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="503" y="127" as="geometry" />
+        </mxCell>
+        <mxCell id="VPXxTKBPH1UeQ-HgEbgb-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82B366;fontStyle=1;" value="NODE" vertex="1">
+          <mxGeometry height="60" width="120" x="503" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="VPXxTKBPH1UeQ-HgEbgb-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontStyle=1;" value="MongoDB&amp;nbsp;&lt;div&gt;Ansible Server&lt;/div&gt;" vertex="1">
+          <mxGeometry height="122" width="164" x="274.5" y="489" as="geometry" />
+        </mxCell>
+        <mxCell id="VPXxTKBPH1UeQ-HgEbgb-11" edge="1" parent="1" source="VPXxTKBPH1UeQ-HgEbgb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;" target="VPXxTKBPH1UeQ-HgEbgb-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPXxTKBPH1UeQ-HgEbgb-9" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;fontStyle=1;rounded=0;" value="" vertex="1">
+          <mxGeometry height="51" width="53" x="330" y="328" as="geometry" />
+        </mxCell>
+        <mxCell id="VPXxTKBPH1UeQ-HgEbgb-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;" value="Ansible-pull" vertex="1">
+          <mxGeometry height="30" width="92" x="445" y="535" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
